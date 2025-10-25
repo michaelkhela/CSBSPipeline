@@ -4,7 +4,7 @@ Script that converts CSBS raw composite scores to standard scores for the follow
 **csbs_SSSocial**, **csbs_SSSpeech**, **csbs_SSSymbolic**, **csbs_SSTotal**
 
 **Author**  
-Michael Khela (ch242188) — 05.29.2025
+Michael Khela — 05.29.2025
 
 **Important**  
 The norms table was transcribed from the official document and saved as `csbs_norms.xlsx` in the `inputs` folder.  
